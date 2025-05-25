@@ -30,3 +30,7 @@ This project implements a U-Net-based deep learning model for segmenting brain t
 - **Precision**: 0.8799
 - **Recall**: 0.8677
 - **F1-Score**: 0.8720
+
+## Link to Python Notebook
+
+https://www.kaggle.com/code/anhadmehrotra/brain-tumor-segmentation-for-2d-dataset
